@@ -2,7 +2,9 @@
 Partial College Website with working Login,Signup and Logout Functionality with MYSQL Database
 This Website is created in NetBeans 
 It uses JSP and MYSQL 
-In this im using Cookies to keep track of the user.
+
+
+In this Website, i'm using Cookies to keep track of the user.
 Screenshots : 
 
 ![image](https://github.com/unofficialmohit/CollegeWebsiteJSP/assets/123811704/9965f9cc-2f3b-4316-ad3e-e62e208ffac6)
