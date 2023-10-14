@@ -1,5 +1,5 @@
 # CollegeWebsiteJSP
-Partial College Website with working Login,Signup and Logout Functionality with MYSQL Database
+Partial College Website with working Login,Signup and Logout Functionality with working MYSQL Database
 This Website is created in NetBeans 
 It uses JSP and MYSQL 
 
